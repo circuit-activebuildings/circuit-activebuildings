@@ -8,7 +8,7 @@
 
 
 - 😄 Pronouns: few might call me @circuit for my passion and sometimes because of my behavior.
-- ⚡ Fun fact: I get stuck while working on a desk and get solution in bath.
+- ⚡ Fun fact: I get stuck working on a desk and get solution in bath.
 
 
 <!--
