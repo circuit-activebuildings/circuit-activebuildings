@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: few might call me @circuit for my passion and sometimes because of my behavior.
 - ⚡ Fun fact: I get stuck while working on a desk and get solution in bath.
-- 
+
+
 <!--
 **circuit-activebuildings/circuit-activebuildings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
