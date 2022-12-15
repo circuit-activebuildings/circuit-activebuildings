@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 - 👋 Hi, I’m Vaibhav Jadhav.
 - 👀 I’m interested in Robotics, Embedded Systems, Innovation, Businesses and my other persona likes Writing, Philosophies, Poetry and Psychology
 - 🌱 I’m currently learning Business & Business Building, Embedded Electronics, IoT and Any new interesting tech.
